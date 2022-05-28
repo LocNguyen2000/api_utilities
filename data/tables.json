@@ -10,8 +10,7 @@
   "name": "VendorCode",
   "className": "text-align-left",
   "format": "text",
-  "width": "200px",
-  "minWidth": "120px",
+  "width": "200",
   "isShow": true
 },{
   "_id": {
@@ -23,21 +22,7 @@
   "name": "VendorName",
   "className": "text-align-left",
   "format": "text",
-  "width": "200px",
-  "minWidth": "200px",
-  "isShow": true
-},{
-  "_id": {
-    "$oid": "6290795007b82ac2ca56e52c"
-  },
-  "tableName": "vendor",
-  "label": "Diễn giải",
-  "displayLabel": "Diễn giải",
-  "name": "Description",
-  "className": "text-align-left",
-  "format": "text",
-  "width": "280px",
-  "minWidth": "280px",
+  "width": "200",
   "isShow": true
 },{
   "_id": {
@@ -49,8 +34,7 @@
   "name": "VendorTaxCode",
   "className": "text-align-left",
   "format": "text",
-  "width": "120px",
-  "minWidth": "120px",
+  "width": "120",
   "isShow": true
 },{
   "_id": {
@@ -62,8 +46,7 @@
   "name": "VendorPhoneNumber",
   "className": "text-align-left",
   "format": "text",
-  "width": "120px",
-  "minWidth": "120px",
+  "width": "120",
   "isShow": true
 },{
   "_id": {
@@ -75,8 +58,7 @@
   "name": "Website",
   "className": "text-align-left",
   "format": "text",
-  "width": "120px",
-  "minWidth": "120px",
+  "width": "120",
   "isShow": true
 },{
   "_id": {
@@ -88,21 +70,7 @@
   "name": "IdentityNumber",
   "className": "text-align-left",
   "format": "text",
-  "width": "120px",
-  "minWidth": "120px",
-  "isShow": true
-},{
-  "_id": {
-    "$oid": "6290795007b82ac2ca56e531"
-  },
-  "tableName": "vendor",
-  "label": "Nhóm KH, NCC",
-  "displayLabel": "Nhóm KH, NCC",
-  "name": "ClientVendorGroup",
-  "className": "text-align-left",
-  "format": "text",
-  "width": "120px",
-  "minWidth": "120px",
+  "width": "120",
   "isShow": true
 },{
   "_id": {
@@ -114,8 +82,7 @@
   "name": "VendorAddress",
   "className": "text-align-left",
   "format": "text",
-  "width": "360px",
-  "minWidth": "360px",
+  "width": "360",
   "isShow": true
 },{
   "_id": {
@@ -126,8 +93,7 @@
   "name": "AccountingDate",
   "className": "text-align-center",
   "format": "date",
-  "width": "120px",
-  "minWidth": "120px",
+  "width": "120",
   "tableName": "payment",
   "isShow": true
 },{
@@ -139,8 +105,7 @@
   "name": "PaymentDate",
   "className": "text-align-center",
   "format": "date",
-  "width": "120px",
-  "minWidth": "120px",
+  "width": "120",
   "tableName": "payment",
   "isShow": true
 },{
@@ -152,8 +117,7 @@
   "name": "PaymentCode",
   "className": "text-align-left",
   "format": "text",
-  "width": "150px",
-  "minWidth": "150px",
+  "width": "150",
   "tableName": "payment",
   "isShow": true
 },{
@@ -165,9 +129,7 @@
   "name": "DescriptionPayment",
   "className": "text-align-left text-overflow-hidden",
   "format": "text",
-  "width": "350px",
-  "minWidth": "350px",
-  "maxWidth": "350px",
+  "width": "350",
   "tableName": "payment",
   "isShow": true
 },{
@@ -179,8 +141,7 @@
   "name": "TotalPaymentMoney",
   "className": "text-align-left",
   "format": "text",
-  "width": "120px",
-  "minWidth": "120px",
+  "width": "120",
   "tableName": "payment",
   "isShow": true
 },{
@@ -192,8 +153,7 @@
   "name": "AccountObjectName",
   "className": "text-align-left",
   "format": "text",
-  "width": "150px",
-  "minWidth": "150px",
+  "width": "150",
   "tableName": "payment",
   "isShow": true
 },{
@@ -205,8 +165,7 @@
   "name": "AccountObjectCode",
   "className": "text-align-left",
   "format": "text",
-  "width": "150px",
-  "minWidth": "150px",
+  "width": "150",
   "tableName": "payment",
   "isShow": true
 },{
@@ -218,9 +177,7 @@
   "name": "Address",
   "className": "text-align-left text-overflow-hidden",
   "format": "text",
-  "width": "180px",
-  "minWidth": "180px",
-  "maxWidth": "250px",
+  "width": "180",
   "tableName": "payment",
   "isShow": true
 }]

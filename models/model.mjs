@@ -35,8 +35,6 @@ const tableSchema = new mongoose.Schema({
     className: { type: String },
     format: { type: String },
     width: { type: String },
-    minWidth: { type: String },
-    maxWidth: { type: String },
     isShow: {type: Boolean},
 })
 

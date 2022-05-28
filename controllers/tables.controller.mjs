@@ -1,4 +1,4 @@
-import {Tables} from '../model.mjs'
+import {Tables} from '../models/model.mjs'
 
 export const getColumnsByTableName = async (req, res) => {
     try {

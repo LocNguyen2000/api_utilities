@@ -1,4 +1,4 @@
-import {Wards, Districts, Provinces} from '../model.mjs'
+import {Wards, Districts, Provinces} from '../models/model.mjs'
 
 export const getAllProvinces = async (req, res) => {
     try {
